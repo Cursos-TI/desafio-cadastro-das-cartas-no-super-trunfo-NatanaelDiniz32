@@ -7,8 +7,7 @@
 //Teste larissa
 
 int main() {
- printf("Desafio Super Trunfo - Paises!\n");
-
+ printf("Desafio Super Trunfo - Paises
      // Carta 1 - Florianópolis
     char estado1 = 'C';
     char codigo1[] = "C01";
